@@ -1,0 +1,9 @@
+defaults:
+  - _self_
+  - run: base
+  - seed: base
+  - data: base
+  - eval: base
+  - task: infer/base
+
+task_root: infer

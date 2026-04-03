@@ -1,0 +1,3 @@
+task:
+  name: preprocess
+  output_dir: "artifacts/preprocess"

@@ -1,0 +1,11 @@
+run:
+  clearml:
+    enabled: false
+    project_name: ""
+    task_name: ""
+    enqueue: false
+    queue_name: "default"
+    ui_clone:
+      repository: ""
+      branch: ""
+      entry_point: ""

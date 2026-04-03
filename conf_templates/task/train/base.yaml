@@ -1,0 +1,4 @@
+task:
+  name: train
+  model_id: ""
+  output_dir: "artifacts/train"

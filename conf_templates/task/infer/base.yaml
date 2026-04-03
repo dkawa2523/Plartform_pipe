@@ -1,0 +1,3 @@
+task:
+  name: infer
+  output_dir: "artifacts/infer"
